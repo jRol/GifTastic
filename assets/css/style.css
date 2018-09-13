@@ -1,0 +1,55 @@
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+
+    background: #ebebeb;
+}
+
+button {
+
+    margin: 5px;
+    padding: 3px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    background: #479984;
+}
+
+#animal-form {
+
+    float: right;
+    width: 25%;
+    margin: 5px;
+}
+
+#animal-input,
+#add-animal {
+
+    margin-bottom: 5px;
+}
+
+#add-animal {
+
+    padding: 3px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    background: #479984;
+}
+
+#gifs-view {
+
+    width: 75%;
+}
+
+.animal {
+
+    float: left;
+    margin: 5px;
+}
+
+#animal-input {
+
+    width: 100%;
+}
